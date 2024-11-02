@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shawneil-rodrigues-923982286/)  
-📧 Gmail: shawneilrodrigues@gmail.com
+
 
 
 # 💻 Tech Stack:
