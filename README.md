@@ -1,6 +1,4 @@
-Here’s a GitHub README tailored to your style, based on the information from your resume:
 
----
 
 # 💫 About Me:
 ### <br>🌱 I’m currently diving deeper into CNNs, NLP, and object detection<br>💬 Ask me about Python, Flutter, and deploying ML models<br>⚡ Fun fact: When I'm not coding, you’ll find me participating in hackathons and quizzes!<br>📮 Contact Me: shawneilrodrigues@gmail.com
