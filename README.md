@@ -33,6 +33,3 @@
 
 <!-- Inspired by GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-This README layout integrates your tech skills, personal touch, and GitHub stats in a visually appealing and organized way! Feel free to customize the sections as per your preference.
