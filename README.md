@@ -1,9 +1,10 @@
 # 💫 About Me:
-### <br>🌱 I’m currently exploring Reinforcement Learning, GRPO Algorithm, Retrieval-Augmented Generation (RAG), Agentic AI, and fine-tuning Large Language Models (LLMs).<br>💬 Ask me about Python, Machine Learning, AI deployment, and multimodal applications.<br>⚡ Fun fact: When I'm not coding, you’ll find me participating in hackathons and data science competitions!<br>📮 Contact Me: shawneilrodrigues@gmail.com
+### <br>🌱 I’m currently exploring Reinforcement Learning, GRPO Algorithm, Retrieval-Augmented Generation (RAG), Agentic AI, and fine-tuning Large Language Models (LLMs).<br>💬 Ask me about Python, Machine Learning, AI deployment, and multimodal applications.<br>⚡ Fun fact: When I'm not coding, you’ll find me participating in hackathons and data science competitions!<br>📮 Contact Me: shawneilrodrigues@gmail.com  📄 [My Resume](https://drive.google.com/file/d/1GM9-xysmXHA1T0gj0A5kfWJHdqLZsD-R/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shawneil-rodrigues-923982286/)  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ShawneilRodrigues)
+
 
 ---
 
