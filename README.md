@@ -12,6 +12,13 @@
     <a href="https://drive.google.com/file/d/1GM9-xysmXHA1T0gj0A5kfWJHdqLZsD-R/view?usp=drive_link"><img src="https://img.shields.io/badge/My_Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
 </p>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ShawneilRodrigues&label=Profile%20Views&color=3&icon=6&pretty=false" alt="Profile Views"/>
+  </a>
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834425-e1a92d80-a44d-11eb-800f-4423a2baf541.gif" alt="Divider">
 
 ### 🚀 Impact Highlights
@@ -47,7 +54,7 @@
       <div align="center">
         <h4>⚙️ Languages & Data</h4>
         <p>Python, SQL, PostgreSQL, Firebase, ONNX, C++, Java</p>
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgresql,firebase" />
+        <img src="https.skillicons.dev/icons?i=python,cpp,java,mysql,postgresql,firebase" />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -74,5 +81,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShawneilRodrigues&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=ShawneilRodrigues&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
