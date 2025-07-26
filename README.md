@@ -1,19 +1,15 @@
 # 👋 Hello, I'm Shawneil Rodrigues!
 
 <p align="left">
-  I'm an AI and Machine Learning enthusiast passionate about building the next generation of intelligent systems. My focus is on <b>Reinforcement Learning</b>, <b>Large Language Models (LLMs)</b>, and <b>Agentic AI</b>. I thrive on architecting and deploying solutions that solve real-world problems.
+[cite_start]A proactive and visionary AI Engineer with a passion for leveraging Generative AI to solve complex data challenges[cite: 5]. [cite_start]I specialize in ideating and building novel AI/LLM solutions—from agentic platforms to advanced RAG pipelines—to streamline data extraction and research workflows[cite: 6].
 </p>
 
 <table width="100%">
   <tr>
     <td width="65%">
-      <br>
-      🌱 I’m currently building with <b>Retrieval-Augmented Generation (RAG)</b> and fine-tuning LLMs. <br>
-      💬 Ask me about <b>Python</b>, <b>PyTorch</b>, <b>MLOps</b>, and deploying AI applications.<br>
-      ⚡ Fun fact: When not coding, I'm competing in hackathons and Kaggle competitions!<br>
-      <br>
-      📮 **Contact Me:** [shawneilrodrigues@gmail.com](mailto:shawneilrodrigues@gmail.com) <br>
-      📄 **My Resume:** [View Here](https://drive.google.com/file/d/1GM9-xysmXHA1T0gj0A5kfWJHdqLZsD-R/view?usp=drive_link)
+      <b>📮 Contact:</b> <a href="mailto:shawneilrodrigues@gmail.com">shawneilrodrigues@gmail.com</a> <br>
+      <b>📄 My Resume:</b> <a href="[LINK_TO_YOUR_RESUME_PDF]">View Here</a> <br>
+      <b>🔗 LinkedIn:</b> <a href="https://linkedin.com/in/shawneil-rodrigues">linkedin.com/in/shawneil-rodrigues</a>
     </td>
     <td width="35%">
       <img src="https://github-readme-stats.vercel.app/api?username=ShawneilRodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -21,71 +17,84 @@
   </tr>
 </table>
 
-## 🚀 My Featured Projects
+## 🚀 Key Professional Achievements
+* [cite_start]**End-to-End LLM Deployment:** Owned the full lifecycle of LLM fine-tuning (LoRA) and deployment on Azure, achieving a **2x speedup** and **30% accuracy improvement**[cite: 12].
+* [cite_start]**RAG Pipeline Implementation:** Built an advanced RAG pipeline with sophisticated prompt engineering, cutting down LLM hallucinations by **25%**[cite: 13].
+* [cite_start]**MLOps & Data Pipelines:** Developed distributed ETL pipelines and MLOps workflows that resulted in a **90% reduction** in issue detection time for a real-time monitoring system[cite: 11].
+* [cite_start]**Scalable API Development:** Engineered REST APIs with FastAPI for real-time ingestion, improving data processing latency by **50%**[cite: 14].
+
+---
+
+## 🛠️ Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Project 1: Agentic AI System</h3>
-      <p>A multi-agent framework using LangChain and custom tools to automate complex data analysis tasks. Demonstrates planning, execution, and tool-use with LLMs.</p>
-      <p><b>Tech:</b> Python, LangChain, OpenAI API, FastAPI, Docker</p>
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]">View on GitHub →</a>
+      <h3>OmniBot: Agentic AI for Enterprise Automation</h3>
+      <p>Developed an agentic AI platform using LangChain to automate business workflows and execute tasks by integrating with external APIs like Jira and Zoom[cite: 16].</p>
+      <p><b>Tech:</b> LangChain, Generative AI, RAG, FastAPI</p>
+      <a href="https://github.com/ShawneilRodrigues/[YOUR_REPO_NAME]">View on GitHub →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Project 2: RAG-Powered Chatbot</h3>
-      <p>A chatbot fine-tuned on a custom knowledge base using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers. Built with PyTorch and FAISS for vector search.</p>
-      <p><b>Tech:</b> PyTorch, Hugging Face, FAISS, Streamlit</p>
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]">View on GitHub →</a>
+      <h3>vchat.io: Conversational Video Intelligence</h3>
+      <p>Engineered a novel platform for interactive analysis of video data using a custom multimodal RAG architecture to extract insights from unstructured multimedia[cite: 18, 19].</p>
+      <p><b>Tech:</b> PyTorch, Multimodal RAG, LanceDB, LLaVA</p>
+      <a href="https://github.com/ShawneilRodrigues/[YOUR_REPO_NAME]">View on GitHub →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project 3: RL for Game AI</h3>
-      <p>Implemented a Deep Q-Network (DQN) from scratch to train an agent to play Atari games. Explores concepts of exploration-exploitation and reward shaping.</p>
-      <p><b>Tech:</b> Python, TensorFlow, OpenAI Gym</p>
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]">View on GitHub →</a>
+      <h3>Interpretable Medical Imaging AI</h3>
+      <p>Developed a diagnostic model with 99.36% accuracy for medical imaging and integrated XAI methods (SHAP, LIME) to ensure model transparency and trustworthiness[cite: 22].</p>
+      <p><b>Tech:</b> PyTorch, EfficientNet, XAI (SHAP, LIME)</p>
+      <a href="https://github.com/ShawneilRodrigues/[YOUR_REPO_NAME]">View on GitHub →</a>
     </td>
     <td width="50%" valign="top">
       </td>
   </tr>
 </table>
 
+## 🏆 Community & Recognition
+* [cite_start]**1st Runner-up:** HackForge Hackathon by FOSS Club[cite: 25].
+* [cite_start]**2nd Runner-up:** Datathon 3.0 by NMIMS Analytika (from over 500 participants)[cite: 26].
+
 ---
 
-## 💻 My Tech Stack
+## 💻 My Technical Skills
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <div align="center">
         <h4>🤖 AI & Machine Learning</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,opencv,huggingface" />
-        </a>
+        <p>Generative AI (LLMs, Agentic AI, LangChain, RAG), NLP (Hugging Face, spaCy), Deep Learning (PyTorch, TensorFlow), Fine-Tuning/LoRA, XAI (SHAP, LIME) [cite: 28, 29]</p>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,sklearn,opencv" />
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <div align="center">
-        <h4>🌐 Web & Deployment</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask,fastapi,docker,aws,azure,firebase,html,css" />
-        </a>
+        <h4>☁️ MLOps, Cloud & Backend</h4>
+        <p>Docker, AWS, Azure, CI/CD, Git, GitHub, FastAPI, Flask, Streamlit [cite: 30, 32]</p>
+        <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,fastapi,flask" />
       </div>
     </td>
-    <td valign="top" width="33%">
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <div align="center">
-        <h4>⚙️ Languages & Tools</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,mysql,git,github,vscode,postman" />
-        </a>
+        <h4>⚙️ Languages & Data</h4>
+        <p>Python, SQL, PostgreSQL, Firebase, ONNX, C++, Java [cite: 31]</p>
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgresql,firebase" />
       </div>
     </td>
+    <td valign="top" width="50%">
+       </td>
   </tr>
 </table>
 
 ---
 
-## 📊 My GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShawneilRodrigues&theme=dark&hide_border=false" alt="GitHub Streak" />
