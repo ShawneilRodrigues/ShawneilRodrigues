@@ -30,7 +30,7 @@
     <td valign="top" width="50%">
       <div align="center">
         <h4>🤖 AI & Machine Learning</h4>
-        <p>Generative AI (LLMs, Agentic AI, LangChain, RAG), NLP (Hugging Face, spaCy), Deep Learning, Fine-Tuning/LoRA, XAI (SHAP, LIME)</p>
+        <p>Generative AI (LLMs, Agentic AI, LangChain,Agno,Langgraph, RAG), NLP (Hugging Face, spaCy), Deep Learning, Fine-Tuning/LoRA, XAI (SHAP, LIME)</p>
         <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,opencv" />
       </div>
     </td>
