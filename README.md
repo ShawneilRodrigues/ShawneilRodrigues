@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/shawneil-rodrigues-923982286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:shawneilrodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://drive.google.com/file/d/1Tgif3x8nfFjhbe0o4UKBwh8HuGbmt1GG/view?usp=sharing"><img src="https://img.shields.io/badge/My_Resume-36BCF7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+    <a href="https://leetcode.com/ShawneilRodrigues/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834425-e1a92d80-a44d-11eb-800f-4423a2baf541.gif" alt="Divider">
@@ -61,6 +62,13 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834425-e1a92d80-a44d-11eb-800f-4423a2baf541.gif" alt="Divider">
+
+### 🧩 LeetCode
+<p align="center">
+  <a href="https://leetcode.com/ShawneilRodrigues/">
+    <img src="https://leetcard.jacoblin.cool/ShawneilRodrigues?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ### 📊 My GitHub Activity
 
