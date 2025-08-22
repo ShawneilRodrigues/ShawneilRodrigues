@@ -63,12 +63,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834425-e1a92d80-a44d-11eb-800f-4423a2baf541.gif" alt="Divider">
 
-### 🧩 LeetCode
-<p align="center">
-  <a href="https://leetcode.com/ShawneilRodrigues/">
-    <img src="https://leetcard.jacoblin.cool/ShawneilRodrigues?theme=dark&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ### 📊 My GitHub Activity
 
